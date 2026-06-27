@@ -1,4 +1,4 @@
-Рассчёт размера папки: C:\Users\Student\Documents
+Рассчёт размера папки: C:\Users\users\Documents
 ----------------------------------------
 1024 bytes - report.docx
 2048 bytes - photo.jpg
